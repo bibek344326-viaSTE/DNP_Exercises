@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SumAndQuestionMarks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fccef149d89e1bf01212ff2ff3f174bfadc6bc3")]
 [assembly: System.Reflection.AssemblyProductAttribute("SumAndQuestionMarks")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SumAndQuestionMarks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
