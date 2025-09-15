@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSON_intro", "JSON_intro\JSON_intro.csproj", "{A5AE0C2A-DABF-4558-9107-9D21D266335F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism_CompanyAdministrativeSystem", "Polymorphism_CompanyAdministrativeSystem\Polymorphism_CompanyAdministrativeSystem.csproj", "{ED1FD4AD-957A-4FF2-A870-9A21B442EBC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrafficLight", "TrafficLight\TrafficLight.csproj", "{27A74201-D215-4554-B752-A2211783F0A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoctorsWaitingRoom", "DoctorsWaitingRoom\DoctorsWaitingRoom.csproj", "{52FACF85-3748-4778-9424-3503FC2DD357}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarAndPredicates", "CarAndPredicates\CarAndPredicates.csproj", "{BFB2265D-BD4A-4EAE-8033-9AECD3A81A60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirdWatchers", "BirdWatchers\BirdWatchers.csproj", "{0934FD10-C513-4204-870E-0EB0D0CFBC51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5AE0C2A-DABF-4558-9107-9D21D266335F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5AE0C2A-DABF-4558-9107-9D21D266335F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5AE0C2A-DABF-4558-9107-9D21D266335F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5AE0C2A-DABF-4558-9107-9D21D266335F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED1FD4AD-957A-4FF2-A870-9A21B442EBC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED1FD4AD-957A-4FF2-A870-9A21B442EBC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED1FD4AD-957A-4FF2-A870-9A21B442EBC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED1FD4AD-957A-4FF2-A870-9A21B442EBC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27A74201-D215-4554-B752-A2211783F0A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27A74201-D215-4554-B752-A2211783F0A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27A74201-D215-4554-B752-A2211783F0A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27A74201-D215-4554-B752-A2211783F0A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52FACF85-3748-4778-9424-3503FC2DD357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52FACF85-3748-4778-9424-3503FC2DD357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52FACF85-3748-4778-9424-3503FC2DD357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52FACF85-3748-4778-9424-3503FC2DD357}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFB2265D-BD4A-4EAE-8033-9AECD3A81A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFB2265D-BD4A-4EAE-8033-9AECD3A81A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFB2265D-BD4A-4EAE-8033-9AECD3A81A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFB2265D-BD4A-4EAE-8033-9AECD3A81A60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0934FD10-C513-4204-870E-0EB0D0CFBC51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0934FD10-C513-4204-870E-0EB0D0CFBC51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0934FD10-C513-4204-870E-0EB0D0CFBC51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0934FD10-C513-4204-870E-0EB0D0CFBC51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

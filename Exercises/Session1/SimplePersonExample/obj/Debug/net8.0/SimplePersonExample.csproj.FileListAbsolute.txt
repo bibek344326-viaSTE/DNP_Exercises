@@ -1,0 +1,14 @@
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\SimplePersonExample\bin\Debug\net8.0\SimplePersonExample.exe
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\SimplePersonExample\bin\Debug\net8.0\SimplePersonExample.deps.json
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\SimplePersonExample\bin\Debug\net8.0\SimplePersonExample.runtimeconfig.json
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\SimplePersonExample\bin\Debug\net8.0\SimplePersonExample.dll
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\SimplePersonExample\bin\Debug\net8.0\SimplePersonExample.pdb
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\SimplePersonExample\obj\Debug\net8.0\SimplePersonExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\SimplePersonExample\obj\Debug\net8.0\SimplePersonExample.AssemblyInfoInputs.cache
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\SimplePersonExample\obj\Debug\net8.0\SimplePersonExample.AssemblyInfo.cs
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\SimplePersonExample\obj\Debug\net8.0\SimplePersonExample.csproj.CoreCompileInputs.cache
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\SimplePersonExample\obj\Debug\net8.0\SimplePersonExample.dll
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\SimplePersonExample\obj\Debug\net8.0\refint\SimplePersonExample.dll
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\SimplePersonExample\obj\Debug\net8.0\SimplePersonExample.pdb
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\SimplePersonExample\obj\Debug\net8.0\SimplePersonExample.genruntimeconfig.cache
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\SimplePersonExample\obj\Debug\net8.0\ref\SimplePersonExample.dll

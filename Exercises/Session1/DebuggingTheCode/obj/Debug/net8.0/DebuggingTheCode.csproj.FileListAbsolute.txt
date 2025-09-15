@@ -1,0 +1,14 @@
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\DebuggingTheCode\bin\Debug\net8.0\DebuggingTheCode.exe
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\DebuggingTheCode\bin\Debug\net8.0\DebuggingTheCode.deps.json
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\DebuggingTheCode\bin\Debug\net8.0\DebuggingTheCode.runtimeconfig.json
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\DebuggingTheCode\bin\Debug\net8.0\DebuggingTheCode.dll
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\DebuggingTheCode\bin\Debug\net8.0\DebuggingTheCode.pdb
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\DebuggingTheCode\obj\Debug\net8.0\DebuggingTheCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\DebuggingTheCode\obj\Debug\net8.0\DebuggingTheCode.AssemblyInfoInputs.cache
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\DebuggingTheCode\obj\Debug\net8.0\DebuggingTheCode.AssemblyInfo.cs
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\DebuggingTheCode\obj\Debug\net8.0\DebuggingTheCode.csproj.CoreCompileInputs.cache
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\DebuggingTheCode\obj\Debug\net8.0\DebuggingTheCode.dll
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\DebuggingTheCode\obj\Debug\net8.0\refint\DebuggingTheCode.dll
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\DebuggingTheCode\obj\Debug\net8.0\DebuggingTheCode.pdb
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\DebuggingTheCode\obj\Debug\net8.0\DebuggingTheCode.genruntimeconfig.cache
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\DebuggingTheCode\obj\Debug\net8.0\ref\DebuggingTheCode.dll

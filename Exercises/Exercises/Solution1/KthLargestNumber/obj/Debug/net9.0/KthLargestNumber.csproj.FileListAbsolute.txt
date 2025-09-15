@@ -1,0 +1,14 @@
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\KthLargestNumber\bin\Debug\net9.0\KthLargestNumber.exe
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\KthLargestNumber\bin\Debug\net9.0\KthLargestNumber.deps.json
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\KthLargestNumber\bin\Debug\net9.0\KthLargestNumber.runtimeconfig.json
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\KthLargestNumber\bin\Debug\net9.0\KthLargestNumber.dll
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\KthLargestNumber\bin\Debug\net9.0\KthLargestNumber.pdb
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\KthLargestNumber\obj\Debug\net9.0\KthLargestNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\KthLargestNumber\obj\Debug\net9.0\KthLargestNumber.AssemblyInfoInputs.cache
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\KthLargestNumber\obj\Debug\net9.0\KthLargestNumber.AssemblyInfo.cs
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\KthLargestNumber\obj\Debug\net9.0\KthLargestNumber.csproj.CoreCompileInputs.cache
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\KthLargestNumber\obj\Debug\net9.0\KthLargestNumber.dll
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\KthLargestNumber\obj\Debug\net9.0\refint\KthLargestNumber.dll
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\KthLargestNumber\obj\Debug\net9.0\KthLargestNumber.pdb
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\KthLargestNumber\obj\Debug\net9.0\KthLargestNumber.genruntimeconfig.cache
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\KthLargestNumber\obj\Debug\net9.0\ref\KthLargestNumber.dll

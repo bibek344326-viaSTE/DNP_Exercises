@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h6TSRxSiwpA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bibek\\OneDrive\\Desktop\\ThirdSemester\\DNP\\Exercises\\Session10Linq\\LINQ_Apps\\JSON_Placeholder_Client\\JSON_Placeholder_Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bibek\\.nuget\\packages\\system.net.http.json\\9.0.0\\system.net.http.json.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

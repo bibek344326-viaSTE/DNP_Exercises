@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bibek\\OneDrive\\Desktop\\ThirdSemester\\DNP\\Exercises\\MarvelAPI\\MarvelComicAPI_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{685FA1BC-37A9-4B80-9D3B-EDCCA128A746}|MarvelComicAPI_Demo\\MarvelComicAPI_Demo.csproj|c:\\users\\bibek\\onedrive\\desktop\\thirdsemester\\dnp\\exercises\\marvelapi\\marvelcomicapi_demo\\marvelcomicapi_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{685FA1BC-37A9-4B80-9D3B-EDCCA128A746}|MarvelComicAPI_Demo\\MarvelComicAPI_Demo.csproj|solutionrelative:marvelcomicapi_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685FA1BC-37A9-4B80-9D3B-EDCCA128A746}|MarvelComicAPI_Demo\\MarvelComicAPI_Demo.csproj|c:\\users\\bibek\\onedrive\\desktop\\thirdsemester\\dnp\\exercises\\marvelapi\\marvelcomicapi_demo\\marvelcomicapi_demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{685FA1BC-37A9-4B80-9D3B-EDCCA128A746}|MarvelComicAPI_Demo\\MarvelComicAPI_Demo.csproj|solutionrelative:marvelcomicapi_demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685FA1BC-37A9-4B80-9D3B-EDCCA128A746}|MarvelComicAPI_Demo\\MarvelComicAPI_Demo.csproj|c:\\users\\bibek\\onedrive\\desktop\\thirdsemester\\dnp\\exercises\\marvelapi\\marvelcomicapi_demo\\marvelcomicapi_demo\\components\\pages\\searchcharacters.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{685FA1BC-37A9-4B80-9D3B-EDCCA128A746}|MarvelComicAPI_Demo\\MarvelComicAPI_Demo.csproj|solutionrelative:marvelcomicapi_demo\\components\\pages\\searchcharacters.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bibek\\OneDrive\\Desktop\\ThirdSemester\\DNP\\Exercises\\MarvelAPI\\MarvelComicAPI_Demo\\MarvelComicAPI_Demo\\Models\\Character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MarvelComicAPI_Demo\\Models\\Character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bibek\\OneDrive\\Desktop\\ThirdSemester\\DNP\\Exercises\\MarvelAPI\\MarvelComicAPI_Demo\\MarvelComicAPI_Demo\\Services\\MarvelApiService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MarvelComicAPI_Demo\\Services\\MarvelApiService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bibek\\OneDrive\\Desktop\\ThirdSemester\\DNP\\Exercises\\MarvelAPI\\MarvelComicAPI_Demo\\MarvelComicAPI_Demo\\Models\\CharacterDataContainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MarvelComicAPI_Demo\\Models\\CharacterDataContainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bibek\\OneDrive\\Desktop\\ThirdSemester\\DNP\\Exercises\\MarvelAPI\\MarvelComicAPI_Demo\\MarvelComicAPI_Demo\\Models\\Thumbnail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MarvelComicAPI_Demo\\Models\\Thumbnail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bibek\\OneDrive\\Desktop\\ThirdSemester\\DNP\\Exercises\\MarvelAPI\\MarvelComicAPI_Demo\\MarvelComicAPI_Demo\\Models\\CharacterDataWrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MarvelComicAPI_Demo\\Models\\CharacterDataWrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bibek\\OneDrive\\Desktop\\ThirdSemester\\DNP\\Exercises\\MarvelAPI\\MarvelComicAPI_Demo\\MarvelComicAPI_Demo\\Program.cs",
+              "RelativeDocumentMoniker": "MarvelComicAPI_Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\Bibek\\OneDrive\\Desktop\\ThirdSemester\\DNP\\Exercises\\MarvelAPI\\MarvelComicAPI_Demo\\MarvelComicAPI_Demo\\Program.cs",
+              "RelativeToolTip": "MarvelComicAPI_Demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T23:21:33.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\Bibek\\OneDrive\\Desktop\\ThirdSemester\\DNP\\Exercises\\MarvelAPI\\MarvelComicAPI_Demo\\MarvelComicAPI_Demo\\Models\\Character.cs",
+              "RelativeDocumentMoniker": "MarvelComicAPI_Demo\\Models\\Character.cs",
+              "ToolTip": "C:\\Users\\Bibek\\OneDrive\\Desktop\\ThirdSemester\\DNP\\Exercises\\MarvelAPI\\MarvelComicAPI_Demo\\MarvelComicAPI_Demo\\Models\\Character.cs",
+              "RelativeToolTip": "MarvelComicAPI_Demo\\Models\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T23:18:03.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MarvelApiService.cs",
+              "DocumentMoniker": "C:\\Users\\Bibek\\OneDrive\\Desktop\\ThirdSemester\\DNP\\Exercises\\MarvelAPI\\MarvelComicAPI_Demo\\MarvelComicAPI_Demo\\Services\\MarvelApiService.cs",
+              "RelativeDocumentMoniker": "MarvelComicAPI_Demo\\Services\\MarvelApiService.cs",
+              "ToolTip": "C:\\Users\\Bibek\\OneDrive\\Desktop\\ThirdSemester\\DNP\\Exercises\\MarvelAPI\\MarvelComicAPI_Demo\\MarvelComicAPI_Demo\\Services\\MarvelApiService.cs",
+              "RelativeToolTip": "MarvelComicAPI_Demo\\Services\\MarvelApiService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T23:17:33.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Bibek\\OneDrive\\Desktop\\ThirdSemester\\DNP\\Exercises\\MarvelAPI\\MarvelComicAPI_Demo\\MarvelComicAPI_Demo\\appsettings.json",
+              "RelativeDocumentMoniker": "MarvelComicAPI_Demo\\appsettings.json",
+              "ToolTip": "C:\\Users\\Bibek\\OneDrive\\Desktop\\ThirdSemester\\DNP\\Exercises\\MarvelAPI\\MarvelComicAPI_Demo\\MarvelComicAPI_Demo\\appsettings.json",
+              "RelativeToolTip": "MarvelComicAPI_Demo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-22T23:13:56.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CharacterDataContainer.cs",
+              "DocumentMoniker": "C:\\Users\\Bibek\\OneDrive\\Desktop\\ThirdSemester\\DNP\\Exercises\\MarvelAPI\\MarvelComicAPI_Demo\\MarvelComicAPI_Demo\\Models\\CharacterDataContainer.cs",
+              "RelativeDocumentMoniker": "MarvelComicAPI_Demo\\Models\\CharacterDataContainer.cs",
+              "ToolTip": "C:\\Users\\Bibek\\OneDrive\\Desktop\\ThirdSemester\\DNP\\Exercises\\MarvelAPI\\MarvelComicAPI_Demo\\MarvelComicAPI_Demo\\Models\\CharacterDataContainer.cs",
+              "RelativeToolTip": "MarvelComicAPI_Demo\\Models\\CharacterDataContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T23:18:18.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Thumbnail.cs",
+              "DocumentMoniker": "C:\\Users\\Bibek\\OneDrive\\Desktop\\ThirdSemester\\DNP\\Exercises\\MarvelAPI\\MarvelComicAPI_Demo\\MarvelComicAPI_Demo\\Models\\Thumbnail.cs",
+              "RelativeDocumentMoniker": "MarvelComicAPI_Demo\\Models\\Thumbnail.cs",
+              "ToolTip": "C:\\Users\\Bibek\\OneDrive\\Desktop\\ThirdSemester\\DNP\\Exercises\\MarvelAPI\\MarvelComicAPI_Demo\\MarvelComicAPI_Demo\\Models\\Thumbnail.cs",
+              "RelativeToolTip": "MarvelComicAPI_Demo\\Models\\Thumbnail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T23:18:30.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CharacterDataWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\Bibek\\OneDrive\\Desktop\\ThirdSemester\\DNP\\Exercises\\MarvelAPI\\MarvelComicAPI_Demo\\MarvelComicAPI_Demo\\Models\\CharacterDataWrapper.cs",
+              "RelativeDocumentMoniker": "MarvelComicAPI_Demo\\Models\\CharacterDataWrapper.cs",
+              "ToolTip": "C:\\Users\\Bibek\\OneDrive\\Desktop\\ThirdSemester\\DNP\\Exercises\\MarvelAPI\\MarvelComicAPI_Demo\\MarvelComicAPI_Demo\\Models\\CharacterDataWrapper.cs",
+              "RelativeToolTip": "MarvelComicAPI_Demo\\Models\\CharacterDataWrapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T23:18:07.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchCharacters.razor",
+              "DocumentMoniker": "C:\\Users\\Bibek\\OneDrive\\Desktop\\ThirdSemester\\DNP\\Exercises\\MarvelAPI\\MarvelComicAPI_Demo\\MarvelComicAPI_Demo\\Components\\Pages\\SearchCharacters.razor",
+              "RelativeDocumentMoniker": "MarvelComicAPI_Demo\\Components\\Pages\\SearchCharacters.razor",
+              "ToolTip": "C:\\Users\\Bibek\\OneDrive\\Desktop\\ThirdSemester\\DNP\\Exercises\\MarvelAPI\\MarvelComicAPI_Demo\\MarvelComicAPI_Demo\\Components\\Pages\\SearchCharacters.razor",
+              "RelativeToolTip": "MarvelComicAPI_Demo\\Components\\Pages\\SearchCharacters.razor",
+              "ViewState": "AgIAACQAAAAAAAAAAAAQwDQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T23:10:43.867Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\ArrayClumps\bin\Debug\net8.0\ArrayClumps.exe
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\ArrayClumps\bin\Debug\net8.0\ArrayClumps.deps.json
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\ArrayClumps\bin\Debug\net8.0\ArrayClumps.runtimeconfig.json
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\ArrayClumps\bin\Debug\net8.0\ArrayClumps.dll
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\ArrayClumps\bin\Debug\net8.0\ArrayClumps.pdb
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\ArrayClumps\obj\Debug\net8.0\ArrayClumps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\ArrayClumps\obj\Debug\net8.0\ArrayClumps.AssemblyInfoInputs.cache
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\ArrayClumps\obj\Debug\net8.0\ArrayClumps.AssemblyInfo.cs
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\ArrayClumps\obj\Debug\net8.0\ArrayClumps.csproj.CoreCompileInputs.cache
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\ArrayClumps\obj\Debug\net8.0\ArrayClumps.dll
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\ArrayClumps\obj\Debug\net8.0\refint\ArrayClumps.dll
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\ArrayClumps\obj\Debug\net8.0\ArrayClumps.pdb
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\ArrayClumps\obj\Debug\net8.0\ArrayClumps.genruntimeconfig.cache
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\ArrayClumps\obj\Debug\net8.0\ref\ArrayClumps.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MathInSeperateNamespace/1.0.0": {
+        "runtime": {
+          "MathInSeperateNamespace.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MathInSeperateNamespace/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

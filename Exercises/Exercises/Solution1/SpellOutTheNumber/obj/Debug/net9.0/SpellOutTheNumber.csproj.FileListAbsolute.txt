@@ -1,0 +1,14 @@
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\SpellOutTheNumber\bin\Debug\net9.0\SpellOutTheNumber.exe
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\SpellOutTheNumber\bin\Debug\net9.0\SpellOutTheNumber.deps.json
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\SpellOutTheNumber\bin\Debug\net9.0\SpellOutTheNumber.runtimeconfig.json
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\SpellOutTheNumber\bin\Debug\net9.0\SpellOutTheNumber.dll
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\SpellOutTheNumber\bin\Debug\net9.0\SpellOutTheNumber.pdb
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\SpellOutTheNumber\obj\Debug\net9.0\SpellOutTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\SpellOutTheNumber\obj\Debug\net9.0\SpellOutTheNumber.AssemblyInfoInputs.cache
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\SpellOutTheNumber\obj\Debug\net9.0\SpellOutTheNumber.AssemblyInfo.cs
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\SpellOutTheNumber\obj\Debug\net9.0\SpellOutTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\SpellOutTheNumber\obj\Debug\net9.0\SpellOutTheNumber.dll
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\SpellOutTheNumber\obj\Debug\net9.0\refint\SpellOutTheNumber.dll
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\SpellOutTheNumber\obj\Debug\net9.0\SpellOutTheNumber.pdb
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\SpellOutTheNumber\obj\Debug\net9.0\SpellOutTheNumber.genruntimeconfig.cache
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\SpellOutTheNumber\obj\Debug\net9.0\ref\SpellOutTheNumber.dll

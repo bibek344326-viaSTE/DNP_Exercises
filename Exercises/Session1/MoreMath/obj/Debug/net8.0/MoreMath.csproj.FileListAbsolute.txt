@@ -1,0 +1,14 @@
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\MoreMath\bin\Debug\net8.0\MoreMath.exe
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\MoreMath\bin\Debug\net8.0\MoreMath.deps.json
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\MoreMath\bin\Debug\net8.0\MoreMath.runtimeconfig.json
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\MoreMath\bin\Debug\net8.0\MoreMath.dll
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\MoreMath\bin\Debug\net8.0\MoreMath.pdb
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\MoreMath\obj\Debug\net8.0\MoreMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\MoreMath\obj\Debug\net8.0\MoreMath.AssemblyInfoInputs.cache
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\MoreMath\obj\Debug\net8.0\MoreMath.AssemblyInfo.cs
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\MoreMath\obj\Debug\net8.0\MoreMath.csproj.CoreCompileInputs.cache
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\MoreMath\obj\Debug\net8.0\MoreMath.dll
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\MoreMath\obj\Debug\net8.0\refint\MoreMath.dll
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\MoreMath\obj\Debug\net8.0\MoreMath.pdb
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\MoreMath\obj\Debug\net8.0\MoreMath.genruntimeconfig.cache
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\MoreMath\obj\Debug\net8.0\ref\MoreMath.dll

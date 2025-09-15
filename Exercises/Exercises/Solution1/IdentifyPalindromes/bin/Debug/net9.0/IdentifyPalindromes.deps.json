@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "IdentifyPalindromes/1.0.0": {
+        "runtime": {
+          "IdentifyPalindromes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IdentifyPalindromes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

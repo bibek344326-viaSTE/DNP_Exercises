@@ -1,0 +1,14 @@
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\IdentifyPalindromes\bin\Debug\net9.0\IdentifyPalindromes.exe
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\IdentifyPalindromes\bin\Debug\net9.0\IdentifyPalindromes.deps.json
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\IdentifyPalindromes\bin\Debug\net9.0\IdentifyPalindromes.runtimeconfig.json
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\IdentifyPalindromes\bin\Debug\net9.0\IdentifyPalindromes.dll
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\IdentifyPalindromes\bin\Debug\net9.0\IdentifyPalindromes.pdb
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\IdentifyPalindromes\obj\Debug\net9.0\IdentifyPalindromes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\IdentifyPalindromes\obj\Debug\net9.0\IdentifyPalindromes.AssemblyInfoInputs.cache
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\IdentifyPalindromes\obj\Debug\net9.0\IdentifyPalindromes.AssemblyInfo.cs
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\IdentifyPalindromes\obj\Debug\net9.0\IdentifyPalindromes.csproj.CoreCompileInputs.cache
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\IdentifyPalindromes\obj\Debug\net9.0\IdentifyPalindromes.dll
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\IdentifyPalindromes\obj\Debug\net9.0\refint\IdentifyPalindromes.dll
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\IdentifyPalindromes\obj\Debug\net9.0\IdentifyPalindromes.pdb
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\IdentifyPalindromes\obj\Debug\net9.0\IdentifyPalindromes.genruntimeconfig.cache
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\IdentifyPalindromes\obj\Debug\net9.0\ref\IdentifyPalindromes.dll

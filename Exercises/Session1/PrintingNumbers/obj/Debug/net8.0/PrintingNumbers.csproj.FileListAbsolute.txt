@@ -1,0 +1,14 @@
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\PrintingNumbers\bin\Debug\net8.0\PrintingNumbers.exe
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\PrintingNumbers\bin\Debug\net8.0\PrintingNumbers.deps.json
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\PrintingNumbers\bin\Debug\net8.0\PrintingNumbers.runtimeconfig.json
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\PrintingNumbers\bin\Debug\net8.0\PrintingNumbers.dll
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\PrintingNumbers\bin\Debug\net8.0\PrintingNumbers.pdb
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\PrintingNumbers\obj\Debug\net8.0\PrintingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\PrintingNumbers\obj\Debug\net8.0\PrintingNumbers.AssemblyInfoInputs.cache
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\PrintingNumbers\obj\Debug\net8.0\PrintingNumbers.AssemblyInfo.cs
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\PrintingNumbers\obj\Debug\net8.0\PrintingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\PrintingNumbers\obj\Debug\net8.0\PrintingNumbers.dll
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\PrintingNumbers\obj\Debug\net8.0\refint\PrintingNumbers.dll
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\PrintingNumbers\obj\Debug\net8.0\PrintingNumbers.pdb
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\PrintingNumbers\obj\Debug\net8.0\PrintingNumbers.genruntimeconfig.cache
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\PrintingNumbers\obj\Debug\net8.0\ref\PrintingNumbers.dll

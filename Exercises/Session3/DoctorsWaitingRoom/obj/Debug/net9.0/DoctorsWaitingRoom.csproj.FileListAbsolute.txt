@@ -1,0 +1,14 @@
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session3\DoctorsWaitingRoom\bin\Debug\net9.0\DoctorsWaitingRoom.exe
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session3\DoctorsWaitingRoom\bin\Debug\net9.0\DoctorsWaitingRoom.deps.json
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session3\DoctorsWaitingRoom\bin\Debug\net9.0\DoctorsWaitingRoom.runtimeconfig.json
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session3\DoctorsWaitingRoom\bin\Debug\net9.0\DoctorsWaitingRoom.dll
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session3\DoctorsWaitingRoom\bin\Debug\net9.0\DoctorsWaitingRoom.pdb
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session3\DoctorsWaitingRoom\obj\Debug\net9.0\DoctorsWaitingRoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session3\DoctorsWaitingRoom\obj\Debug\net9.0\DoctorsWaitingRoom.AssemblyInfoInputs.cache
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session3\DoctorsWaitingRoom\obj\Debug\net9.0\DoctorsWaitingRoom.AssemblyInfo.cs
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session3\DoctorsWaitingRoom\obj\Debug\net9.0\DoctorsWaitingRoom.csproj.CoreCompileInputs.cache
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session3\DoctorsWaitingRoom\obj\Debug\net9.0\DoctorsWaitingRoom.dll
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session3\DoctorsWaitingRoom\obj\Debug\net9.0\refint\DoctorsWaitingRoom.dll
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session3\DoctorsWaitingRoom\obj\Debug\net9.0\DoctorsWaitingRoom.pdb
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session3\DoctorsWaitingRoom\obj\Debug\net9.0\DoctorsWaitingRoom.genruntimeconfig.cache
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session3\DoctorsWaitingRoom\obj\Debug\net9.0\ref\DoctorsWaitingRoom.dll

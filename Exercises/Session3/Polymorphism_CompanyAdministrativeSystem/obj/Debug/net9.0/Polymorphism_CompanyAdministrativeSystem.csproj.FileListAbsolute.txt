@@ -1,0 +1,14 @@
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session3\Polymorphism_CompanyAdministrativeSystem\bin\Debug\net9.0\Polymorphism_CompanyAdministrativeSystem.exe
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session3\Polymorphism_CompanyAdministrativeSystem\bin\Debug\net9.0\Polymorphism_CompanyAdministrativeSystem.deps.json
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session3\Polymorphism_CompanyAdministrativeSystem\bin\Debug\net9.0\Polymorphism_CompanyAdministrativeSystem.runtimeconfig.json
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session3\Polymorphism_CompanyAdministrativeSystem\bin\Debug\net9.0\Polymorphism_CompanyAdministrativeSystem.dll
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session3\Polymorphism_CompanyAdministrativeSystem\bin\Debug\net9.0\Polymorphism_CompanyAdministrativeSystem.pdb
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session3\Polymorphism_CompanyAdministrativeSystem\obj\Debug\net9.0\Polymorphism_CompanyAdministrativeSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session3\Polymorphism_CompanyAdministrativeSystem\obj\Debug\net9.0\Polymorphism_CompanyAdministrativeSystem.AssemblyInfoInputs.cache
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session3\Polymorphism_CompanyAdministrativeSystem\obj\Debug\net9.0\Polymorphism_CompanyAdministrativeSystem.AssemblyInfo.cs
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session3\Polymorphism_CompanyAdministrativeSystem\obj\Debug\net9.0\Polymorphism_CompanyAdministrativeSystem.csproj.CoreCompileInputs.cache
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session3\Polymorphism_CompanyAdministrativeSystem\obj\Debug\net9.0\Polymorphism_CompanyAdministrativeSystem.dll
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session3\Polymorphism_CompanyAdministrativeSystem\obj\Debug\net9.0\refint\Polymorphism_CompanyAdministrativeSystem.dll
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session3\Polymorphism_CompanyAdministrativeSystem\obj\Debug\net9.0\Polymorphism_CompanyAdministrativeSystem.pdb
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session3\Polymorphism_CompanyAdministrativeSystem\obj\Debug\net9.0\Polymorphism_CompanyAdministrativeSystem.genruntimeconfig.cache
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session3\Polymorphism_CompanyAdministrativeSystem\obj\Debug\net9.0\ref\Polymorphism_CompanyAdministrativeSystem.dll

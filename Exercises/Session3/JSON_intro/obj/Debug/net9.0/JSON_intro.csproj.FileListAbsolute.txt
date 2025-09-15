@@ -1,0 +1,14 @@
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session3\JSON_intro\bin\Debug\net9.0\JSON_intro.exe
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session3\JSON_intro\bin\Debug\net9.0\JSON_intro.deps.json
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session3\JSON_intro\bin\Debug\net9.0\JSON_intro.runtimeconfig.json
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session3\JSON_intro\bin\Debug\net9.0\JSON_intro.dll
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session3\JSON_intro\bin\Debug\net9.0\JSON_intro.pdb
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session3\JSON_intro\obj\Debug\net9.0\JSON_intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session3\JSON_intro\obj\Debug\net9.0\JSON_intro.AssemblyInfoInputs.cache
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session3\JSON_intro\obj\Debug\net9.0\JSON_intro.AssemblyInfo.cs
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session3\JSON_intro\obj\Debug\net9.0\JSON_intro.csproj.CoreCompileInputs.cache
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session3\JSON_intro\obj\Debug\net9.0\JSON_intro.dll
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session3\JSON_intro\obj\Debug\net9.0\refint\JSON_intro.dll
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session3\JSON_intro\obj\Debug\net9.0\JSON_intro.pdb
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session3\JSON_intro\obj\Debug\net9.0\JSON_intro.genruntimeconfig.cache
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session3\JSON_intro\obj\Debug\net9.0\ref\JSON_intro.dll

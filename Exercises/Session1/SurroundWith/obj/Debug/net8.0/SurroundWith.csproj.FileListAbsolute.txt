@@ -1,0 +1,14 @@
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\SurroundWith\bin\Debug\net8.0\SurroundWith.exe
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\SurroundWith\bin\Debug\net8.0\SurroundWith.deps.json
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\SurroundWith\bin\Debug\net8.0\SurroundWith.runtimeconfig.json
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\SurroundWith\bin\Debug\net8.0\SurroundWith.dll
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\SurroundWith\bin\Debug\net8.0\SurroundWith.pdb
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\SurroundWith\obj\Debug\net8.0\SurroundWith.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\SurroundWith\obj\Debug\net8.0\SurroundWith.AssemblyInfoInputs.cache
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\SurroundWith\obj\Debug\net8.0\SurroundWith.AssemblyInfo.cs
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\SurroundWith\obj\Debug\net8.0\SurroundWith.csproj.CoreCompileInputs.cache
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\SurroundWith\obj\Debug\net8.0\SurroundWith.dll
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\SurroundWith\obj\Debug\net8.0\refint\SurroundWith.dll
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\SurroundWith\obj\Debug\net8.0\SurroundWith.pdb
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\SurroundWith\obj\Debug\net8.0\SurroundWith.genruntimeconfig.cache
+C:\Users\Bibek\OneDrive\Desktop\Third Semester\DNP\Exercises\Session1\SurroundWith\obj\Debug\net8.0\ref\SurroundWith.dll

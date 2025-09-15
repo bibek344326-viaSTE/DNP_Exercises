@@ -1,0 +1,14 @@
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\SumAndQuestionMarks\bin\Debug\net9.0\SumAndQuestionMarks.exe
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\SumAndQuestionMarks\bin\Debug\net9.0\SumAndQuestionMarks.deps.json
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\SumAndQuestionMarks\bin\Debug\net9.0\SumAndQuestionMarks.runtimeconfig.json
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\SumAndQuestionMarks\bin\Debug\net9.0\SumAndQuestionMarks.dll
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\SumAndQuestionMarks\bin\Debug\net9.0\SumAndQuestionMarks.pdb
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\SumAndQuestionMarks\obj\Debug\net9.0\SumAndQuestionMarks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\SumAndQuestionMarks\obj\Debug\net9.0\SumAndQuestionMarks.AssemblyInfoInputs.cache
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\SumAndQuestionMarks\obj\Debug\net9.0\SumAndQuestionMarks.AssemblyInfo.cs
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\SumAndQuestionMarks\obj\Debug\net9.0\SumAndQuestionMarks.csproj.CoreCompileInputs.cache
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\SumAndQuestionMarks\obj\Debug\net9.0\SumAndQuestionMarks.dll
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\SumAndQuestionMarks\obj\Debug\net9.0\refint\SumAndQuestionMarks.dll
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\SumAndQuestionMarks\obj\Debug\net9.0\SumAndQuestionMarks.pdb
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\SumAndQuestionMarks\obj\Debug\net9.0\SumAndQuestionMarks.genruntimeconfig.cache
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Exercises\Solution1\SumAndQuestionMarks\obj\Debug\net9.0\ref\SumAndQuestionMarks.dll

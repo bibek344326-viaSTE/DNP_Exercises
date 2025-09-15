@@ -1,0 +1,14 @@
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session10Linq\LINQ_Apps\JSON_Placeholder_Client\bin\Debug\net9.0\JSON_Placeholder_Client.exe
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session10Linq\LINQ_Apps\JSON_Placeholder_Client\bin\Debug\net9.0\JSON_Placeholder_Client.deps.json
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session10Linq\LINQ_Apps\JSON_Placeholder_Client\bin\Debug\net9.0\JSON_Placeholder_Client.runtimeconfig.json
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session10Linq\LINQ_Apps\JSON_Placeholder_Client\bin\Debug\net9.0\JSON_Placeholder_Client.dll
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session10Linq\LINQ_Apps\JSON_Placeholder_Client\bin\Debug\net9.0\JSON_Placeholder_Client.pdb
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session10Linq\LINQ_Apps\JSON_Placeholder_Client\obj\Debug\net9.0\JSON_Placeholder_Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session10Linq\LINQ_Apps\JSON_Placeholder_Client\obj\Debug\net9.0\JSON_Placeholder_Client.AssemblyInfoInputs.cache
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session10Linq\LINQ_Apps\JSON_Placeholder_Client\obj\Debug\net9.0\JSON_Placeholder_Client.AssemblyInfo.cs
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session10Linq\LINQ_Apps\JSON_Placeholder_Client\obj\Debug\net9.0\JSON_Placeholder_Client.csproj.CoreCompileInputs.cache
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session10Linq\LINQ_Apps\JSON_Placeholder_Client\obj\Debug\net9.0\JSON_Placeholder_Client.dll
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session10Linq\LINQ_Apps\JSON_Placeholder_Client\obj\Debug\net9.0\refint\JSON_Placeholder_Client.dll
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session10Linq\LINQ_Apps\JSON_Placeholder_Client\obj\Debug\net9.0\JSON_Placeholder_Client.pdb
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session10Linq\LINQ_Apps\JSON_Placeholder_Client\obj\Debug\net9.0\JSON_Placeholder_Client.genruntimeconfig.cache
+C:\Users\Bibek\OneDrive\Desktop\ThirdSemester\DNP\Exercises\Session10Linq\LINQ_Apps\JSON_Placeholder_Client\obj\Debug\net9.0\ref\JSON_Placeholder_Client.dll
